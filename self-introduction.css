@@ -1,0 +1,19 @@
+body{background-image:url("haikei.jpeg");
+    background-size: contain;
+}
+li{list-style-type:circle;
+margin: 10px;}
+a{font-weight: bold;}
+figure.animal{float: left;
+    padding-right: 20px;
+}
+h3{clear: both;}
+.moji1{
+    color:aliceblue
+}
+.moji2{
+    color: darkgoldenrod;
+}
+.moji3{
+    color: blue;
+}
